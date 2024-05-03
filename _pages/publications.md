@@ -71,7 +71,7 @@ Transactions on Wireless Communications**, Jan., 2023.
 Fall**, Hongkong, China, 2023, pp. 1-6.
   18.   Q. Lu, R. Xu, C. Liu, **S. Li**, and B. Bai, “An Unequal Error Protection-based Coded Transmission for Federated Learning”, to appear in **IEEE International Communication Conference in China (ICCC) Workshop**, Dalian, China, 2023, pp. 1-5.
   19.   M. Liu, **S. Li**, B. Bai, and G. Caire, “Reduced-Complexity Cross-Domain Iterative Detection for OTFS Modulation via Delay-Doppler Decoupling,” in **IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)**, Shanghai, China, 2023, pp. 1-6.
-  20.   14.   M. Nie, **S. Li**, and D. Mishra, “Improving Channel Estimation Performance for Uplink OTFS Transmissions: Pilot Design based on A Posteriori Cramer-Rao bound,” in **IEEE International Conference on Communications (ICC) Workshop**, Rome, Italy, 2023, pp. 1-6.
+  20.   M. Nie, **S. Li**, and D. Mishra, “Improving Channel Estimation Performance for Uplink OTFS Transmissions: Pilot Design based on A Posteriori Cramer-Rao bound,” in **IEEE International Conference on Communications (ICC) Workshop**, Rome, Italy, 2023, pp. 1-6.
   21.   M. Liu, **S. Li**, Z. Wei, and B. Bai, “Near Optimal Hybrid Digital-Analog Beamforming for Point-to-Point MIMO-OTFS Transmission,” in **IEEE Wireless
 Communications and Network Conference (WCNC) Workshop**, Glasgow, UK, 2023, pp. 1-6. [**Best Paper Award**]
   22.   Q. Lu, **S. Li**, B. Bai, and J. Yuan, “Spatially-Coupled Faster-than-Nyquist Signaling”, to appear in **IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)**, virtual, Kyoto, Japan, 2022, pp. 1-6.
