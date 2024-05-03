@@ -22,7 +22,6 @@ Apr. 2023.
   10. **S. Li**, B. Bai, J. Zhou, Q. He, and Q. Li, “Superposition Coded Modulation based Faster-than-Nyquist Signaling,” **Wireless Communications and Mobile Computing**, vol. 2018, Article ID 4181626, 10 pages, 2018.
   11. **S. Li**, W. Yuan, Z. Wei, R. Schober, and G. Caire, “Orthogonal Time Frequency Space Modulation – Part II: Transceiver Designs,” **IEEE Communications Letters**, vol. 27, no. 1, pp. 9-13, Jan. 2023. (Invited Paper)
   12. Z. Wei, **S. Li**<sup>*</sup>, W. Yuan, R. Schober, and G. Caire, “Orthogonal Time Frequency Space Modulation – Part I: Fundamentals and Challenges Ahead,” **IEEE Communications Letters**, vol. 27, no. 1, pp. 4-8, Jan. 2023. (Invited Paper)
-  15. Q. Lu, **S. Li**, B. Bai, and J. Yuan, “Spatially-Coupled Faster-than-Nyquist Signaling: A Joint Solution to Detection and Code Design,” **IEEE Transactions on Communications**, vol. 71, no. 1, pp. 52-66, Jan. 2023.
   16. Z. Wei, W. Yuan, **S. Li**<sup>*</sup>, J. Yuan, and D. W. K. Ng, “Off-grid Channel Estimation with Sparse Bayesian Learning for OTFS Systems,”  **IEEE Transactions on Wireless Communications**, vol. 21, no. 9, pp. 7407-7426, Sept. 2022.
   17. W. Yuan, **S. Li**<sup>*</sup>, Z. Wei, J. Yuan, and D. W. K. Ng, “Data-Aided Channel Estimation for OTFS Systems with A Superimposed Pilot and Data Transmission Scheme,” **IEEE Wireless Communications Letters**, vol. 10, no. 9, pp. 1954-1958, Sept. 2021.
   18. B. Liu, **S. Li**<sup>*</sup> , Y. Xie, and J. Yuan, “A Novel Sum-Product Detection Algorithm for Faster-than-Nyquist Signaling: A Deep Learning Approach,” **IEEE Transactions on Communications**, vol. 69, no. 9, pp. 5975-5987, Sept. 2021.
@@ -31,7 +30,8 @@ Apr. 2023.
   24. W. Yuan, Z. Wei, **S. Li**，R. Schober, and G. Caire, “Orthogonal Time Frequency Space Modulation – Part III: ISAC and Potential Directions,” to appear in **IEEE Communications Letters**, vol. 27, no. 1, pp. 14-18, Jan. 2023. (Invited Paper)
   25. T. Xu, **S. Li**, and J. Yuan, "OFDM-Standard Compatible SC-NOFS Waveforms for Low-Latency and Jitter-Tolerance Industrial IoT Communications," to appear in **IEEE Internet of Things Journal**, 2024.
   27. Q. Li, J. Yuan, Q. Min, **S. Li**, and Y. Xie, "Low Complexity Turbo SIC-MMSE Detection for Orthogonal Time Frequency Space Modulation," to appear in **IEEE Transactions on Communications**, Jan. 2024.
-  25. J. Shi, Z. Li, J. Hu, Z. Tie, **S. Li**, W. Liang, and Z. Ding, “OTFS enabled LEO Satellite Communications: A Promising Solution to Severe Doppler Effects,” to appear in **IEEE Networks**, 2023.
+  25. Q. Lu, **S. Li**, B. Bai, and J. Yuan, “Spatially-Coupled Faster-than-Nyquist Signaling: A Joint Solution to Detection and Code Design,” **IEEE Transactions on Communications**, vol. 71, no. 1, pp. 52-66, Jan. 2023.
+  26. J. Shi, Z. Li, J. Hu, Z. Tie, **S. Li**, W. Liang, and Z. Ding, “OTFS enabled LEO Satellite Communications: A Promising Solution to Severe Doppler Effects,” to appear in **IEEE Networks**, 2023.
   20. C. Liu, **S. Li**, W. Yuan, X. Liu, and D. W. K. Ng, “Predictive Precoder Design for OTFS-Enabled URLLC: A Deep Learning Approach,” to appear in **IEEE Journal of Selected Topics in Communications**, 2023.
   21. H. Wen, W. Yuan, Z. Liu, and **S. Li**, “OTFS-SCMA: A Downlink NOMA Scheme for Massive Connectivity in High Mobility Channels,” to appear in **IEEE
 Transactions on Wireless Communications**, Jan., 2023.
