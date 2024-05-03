@@ -29,13 +29,13 @@ Apr. 2023.
   18. B. Liu, **S. Li**<sup>*</sup> , Y. Xie, and J. Yuan, “A Novel Sum-Product Detection Algorithm for Faster-than-Nyquist Signaling: A Deep Learning Approach,” **IEEE Transactions on Communications**, vol. 69, no. 9, pp. 5975-5987, Sept. 2021.
   22. R. Chong, **S. Li**<sup>*</sup>, J. Yuan, and D. W. K. Ng, “Achievable Rate Upper-Bounds of Uplink Multiuser OTFS Transmissions,” **IEEE Wireless Communications Letters**, vol. 11, no. 4, pp. 791-795, Apr. 2022.
   23. W. Yuan, **S. Li**<sup>*</sup>, L. Xiang, and D. W. K. Ng, “Distributed Estimation Framework for Beyond 5G Intelligent Vehicular Networks,” **IEEE Open Journal of Vehicular Technology**, vol. 1, pp. 190-214, Nov. 2020.
-  24. J. Shi, Z. Li, J. Hu, Z. Tie, **S. Li**, W. Liang, and Z. Ding, “OTFS enabled LEO Satellite Communications: A Promising Solution to Severe Doppler Effects,” to appear in **IEEE Networks**, 2023.
+  24. T. Xu, **S. Li**, and J. Yuan, "OFDM-Standard Compatible SC-NOFS Waveforms for Low-Latency and Jitter-Tolerance Industrial IoT Communications," to appear in **IEEE Internet of Things Journal**, 2024.
+  27. Q. Li, J. Yuan, Q. Min, **S. Li**, and Y. Xie, "Low Complexity Turbo SIC-MMSE Detection for Orthogonal Time Frequency Space Modulation," to appear in **IEEE Transactions on Communications**, Jan. 2024.
+  25. J. Shi, Z. Li, J. Hu, Z. Tie, **S. Li**, W. Liang, and Z. Ding, “OTFS enabled LEO Satellite Communications: A Promising Solution to Severe Doppler Effects,” to appear in **IEEE Networks**, 2023.
   20. C. Liu, **S. Li**, W. Yuan, X. Liu, and D. W. K. Ng, “Predictive Precoder Design for OTFS-Enabled URLLC: A Deep Learning Approach,” to appear in **IEEE Journal of Selected Topics in Communications**, 2023.
   21. H. Wen, W. Yuan, Z. Liu, and **S. Li**, “OTFS-SCMA: A Downlink NOMA Scheme for Massive Connectivity in High Mobility Channels,” to appear in **IEEE
 Transactions on Wireless Communications**, Jan., 2023.
   25. C. Liu, W. Yuan, **S. Li**, X. Liu, D. W. K. Ng, and Y. Li, “Learning-based Predictive Beamforming for Integrated Sensing and Communication in Vehicular Networks,” **IEEE Journal on Selected Areas in Communications**,  vol. 40, no. 8, pp. 2317-2334, Aug., 2022.
-  26. T. Xu, **S. Li**, and J. Yuan, "OFDM-Standard Compatible SC-NOFS Waveforms for Low-Latency and Jitter-Tolerance Industrial IoT Communications," to appear in **IEEE Internet of Things Journal**, 2024.
-  27. Q. Li, J. Yuan, Q. Min, **S. Li**, and Y. Xie, "Low Complexity Turbo SIC-MMSE Detection for Orthogonal Time Frequency Space Modulation," to appear in **IEEE Transactions on Communications**, Jan. 2024.
   28. Z. Tie, J. Shi, Z. Li, **S. Li**, and W. Liang, “Security Performance Analysis for An OTFS-based Joint Unicast-Multicast Streaming System,” **IEEE Transactions on Communications**, vol. 70, no. 10, pp. 6764-6777, Oct. 2022.
   29. C. Liu, X. Liu, **S. Li**, W. Yuan, and D. W. K. Ng, “Deep CLSTM for Predictive Beamforming in Integrated Sensing and Communication-enabled Vehicular Networks,” to appear in **Journal of Communications and Information Networks (JCIN)**, Sept., 2022.
   30. P. Kang, K. Cai, X. He, **S. Li**, and J. Yuan, “Generalized Mutual Information-Maximizing Quantized Decoding of LDPC Codes with Layered Scheduling,” **IEEE Transactions on Vehicular Technology**, vol. 71, no. 7, pp. 7258-7273, Jul. 2022.
