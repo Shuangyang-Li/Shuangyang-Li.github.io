@@ -1,0 +1,12 @@
+---
+title: "Delay-Doppler Domain Communications and Sensing"
+collection: talks
+type: "Presentation (together with Prof. Weijie Yuan and Prof. Zhiqiang Wei)"
+permalink: https://resourcecenter.ieee.org/education/webinars/spsweb23020
+venue: "IEEE Signal Processing Society Webinar 2023"
+date: 2023-07-12
+location: "Virtual"
+---
+
+
+Orthogonal time frequency space (OTFS) modulation, which relies on delay Doppler domain for communications, is a promising candidate for supporting reliable information transmission in high-mobility vehicular networks. In this talk, we will provide a general framework for integrated (radar) sensing and communication (ISAC) technique for assisting delay Doppler communications, including both uplink and downlink vehicular communication systems. Benefiting from the OTFS-ISAC signals, the roadside unit (RSU) is capable of simultaneously transmitting downlink information to the vehicles and estimating the sensing parameters of vehicles, e.g., locations and speeds, based on the reflected echoes. Then, relying on the estimated kinematic parameters of vehicles, the RSU can construct the topology of the vehicular network that enables the prediction of the vehicle stated in the following time instant. Consequently, the RSU can effectively formulate the transmit downlink beamformers according to the predicted parameters to counteract the channel adversity such that the vehicles can directly detect the information without the need of performing channel estimation. As for the uplink transmission, the RSU can infer the delays and Dopplers associated with different channel paths based on the aforementioned dynamic topology of the vehicular network. Thus, inserting guard space as in conventional methods are not needed for uplink channel estimation which removes the required training overhead. 
