@@ -22,6 +22,8 @@ Education
 Professional Activities
 ======
 * **IEEE Member**
+* **Guest Editor**
+  * IEEE Transactions on Communications
 * **Secretary and Founding Member of special interest group (SIG) for OTFS**, IEEE ComSoc
 * **''2+1'' event of IEEE ComSoc Communication Theory Technical Committee (CTTC)**
   * Co-organizer of the ''2+1'' event on ''OTFS for Next-generation Wireless Communications'', IEEE ComSoc CTTC
@@ -42,8 +44,13 @@ Professional Activities
   * Co-Presenter, “Tutorial 05-Delay-Doppler Signal Processing for Communications and Sensing”, IEEE International Conference on Communications in China (ICCC), Dalian, 2023.
   * Co-presenter, “Tutorial -Orthogonal Time Frequency Space Modulation: Waveform for Future Wireless Networks”, IEEE Conference on Vehicular Technology (VTC) Spring, Virtual, Jun., 2022.
 * **Conference Technical Program Committee**
-  * TPC Co-chair of IEEE International Conference on Communications in China (ICCC) 2023, Orthogonal Time Frequency Space Modulation (OTFS) for Reliable
-High-mobility Communications, Dalian, China
+  * Leading Workshop Co-chair of IEEE Wireless Communications and Networking Conference (WCNC) 2025, The Third Workshop on Delay-Doppler Communications, Sensing, and Their Integration, Milan, Italy
+  * Workshop Publication chair of IEEE International Conference on Communications (ICC) 2024, Workshop on OTFS and Delay-Doppler Multicarrier Communications for 6G, Montreal, Canada
+  * Leading Workshop Co-chair of IEEE/CIC International Conference on Communications in China (ICCC) 2024, Orthogonal Time Frequency Space (OTFS) Modulation and Delay-Doppler Waveforms for Communications and Sensing, Hangzhou, China
+  * Leading Workshop Co-chair of IEEE Wireless Communications and Networking Conference (WCNC) 2024, The Second Workshop on Delay-Doppler Communications, Sensing, and Their Integration, Dubai, United Arab Emirates
+  * TPC Co-chair of IEEE Vehicular Technology Conference fall (VTC-fall) 2023, Delay- Doppler Communications and Sensing for Vehicular Networks, Hongkong, China
+  * Special Session Co-chair of IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 2023, Delay Doppler Signal Processing for Radar and Communications, Shanghai, China
+  * TPC Co-chair of IEEE International Conference on Communications in China (ICCC) 2023, Orthogonal Time Frequency Space Modulation (OTFS) for Reliable High-mobility Communications, Dalian, China
   * TPC Co-chair of IEEE Wireless Communications and Networking Conference (WCNC) 2023, Workshop on Delay-Doppler Communications, Sensing, and Their Integration, Glasgow, Scotland, UK
   * Special Session Co-chair of International Symposium on Wireless Communication Systems 2022, Special Session on Orthogonal Time Frequency Space (OTFS) Modulation for Wireless Communications, Hangzhou, China
   * TPC Co-chair of IEEE International Conference on Communications in China 2021, Workshop on Orthogonal Time Frequency Space Modulation (OTFS) for Reliable High-mobility Communications, Xiamen, China
