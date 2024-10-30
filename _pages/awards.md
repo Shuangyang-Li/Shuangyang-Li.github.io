@@ -9,7 +9,7 @@ author_profile: true
 * Marie Sklodowska-Curie Actions (MSCA), Individual Fellowship 2022 (Total Budget: Euro 173,847.36).
 
 # <i class="fa fa-fw fa-trophy"></i> Research Award:
-* "<a href="https://emea.regions.comsoc.org/emea-regional-awards/emea-regional-award-winners/">IEEE ComSoc Best Young Researcher Award of the Europe, Middle East, and Africa Region (EMEA), 2024.
+* <a href="https://emea.regions.comsoc.org/emea-regional-awards/emea-regional-award-winners/">IEEE ComSoc Best Young Researcher Award of the Europe, Middle East, and Africa Region (EMEA), 2024.
 * Stanford/Elsevier World's Top 2% Scientist, 2024.
 
     
