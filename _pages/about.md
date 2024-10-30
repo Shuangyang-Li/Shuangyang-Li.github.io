@@ -22,6 +22,7 @@ My research interests include:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[October, 2024]</b> </li> I am honored to receive the "<a href="https://emea.regions.comsoc.org/emea-regional-awards/emea-regional-award-winners/">IEEE ComSoc Best Young Researcher Award of the Europe, Middle East, and Africa Region (EMEA)</a>", 2024.
   <li> <b>[October, 2024]</b> </li> I am co-organizing the workshop in IEEE Wireless Communications and Networking Conference (WCNC) on "<a href="https://wcnc2025.ieee-wcnc.org/workshop/ws07-third-workshop-delay-doppler-communications-sensing-and-their-integration">The Third Workshop on Delay-Doppler Communications, Sensing, and Their Integration</a>". Paper submissions are welcomed.
   <li> <b>[June, 2024]</b> </li> I am co-organizing the speical issue with IEEE Open Journal on Vehicular Technology on "<a href="https://vtsociety.org/files/ieeevts/2024-04/IEEE_OJVT_CFP.pdf">Orthogonal Time Frequency Space Modulation and Delay-Doppler Siganl Processing</a>". Paper submissions are welcomed.
   <li> <b>[April, 2023]</b> </li> I am co-organizing the speical issue with Entropy on "<a href="https://www.mdpi.com/journal/entropy/special_issues/51K2RU21G0">Delay-Doppler Domain Communications for Future Wireless Networks</a>". Paper submissions are welcomed.
