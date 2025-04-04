@@ -22,7 +22,7 @@ Education
 Professional Activities
 ======
 * **IEEE Member**
-* **Guest Editor**
+* **Editor**
   * IEEE Transactions on Communications
 * **Secretary and Founding Member of special interest group (SIG) for OTFS**, IEEE ComSoc
 * **''2+1'' event of IEEE ComSoc Communication Theory Technical Committee (CTTC)**
