@@ -8,7 +8,8 @@ author_profile: true
 # <i class="fa fa-square-o fa-stack-2x"></i> Research Grants
 
 ## Chief Investigator ##
-  1. "Delay-Doppler Domain Communications and Radar Sensing,” Marie Sklodowska-Curie Actions, Postdoctoral Fellowships. (from 2024.01 to 2026.01, Total budget 173847.36 Euro) 
+  1. "Foundations of Delay Doppler Communications and Sensing (FUNDOCS),” ERC starting grant 2025. (Total budget 1.5 Million Euro) 
+  2. "Delay-Doppler Domain Communications and Radar Sensing,” Marie Sklodowska-Curie Actions, Postdoctoral Fellowships. (from 2024.01 to 2026.01, Total budget 173847.36 Euro) 
   **Supervisor:** Professor [Giuseppe Caire](https://www.tu.berlin/commit) 
   
 ## Project Manager ##
