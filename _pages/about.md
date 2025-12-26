@@ -22,6 +22,7 @@ My research interests include:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Dec, 2025]</b> </li> I am co-organizing the special issue on IEEE Journal on Selected Areas in Communications (JSAC) on "<a href="https://www.comsoc.org/publications/journals/ieee-jsac/cfp/advanced-waveforms-embracing-channel-dynamics-future-wireless">Advanced Waveforms Embracing Channel Dynamics for Future Wireless Systems</a>" Paper submissions are welcomed (Deadline: March 15th, 2026).
   <li> <b>[September, 2025]</b> </li> I am honored to be awarded the "<a href="https://erc.europa.eu/news-events/news/erc-2025-starting-grants-results">ERC Starting Grant 2025</a>".
   <li> <b>[October, 2024]</b> </li> I am honored to receive the "<a href="https://emea.regions.comsoc.org/emea-regional-awards/emea-regional-award-winners/">IEEE ComSoc Best Young Researcher Award of the Europe, Middle East, and Africa (EMEA) Region</a>", 2024.
   <li> <b>[October, 2024]</b> </li> I am co-organizing the workshop in IEEE Wireless Communications and Networking Conference (WCNC) on "<a href="https://wcnc2025.ieee-wcnc.org/workshop/ws07-third-workshop-delay-doppler-communications-sensing-and-their-integration">The Third Workshop on Delay-Doppler Communications, Sensing, and Their Integration</a>". Paper submissions are welcomed.
